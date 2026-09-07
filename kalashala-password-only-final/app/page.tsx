@@ -94,7 +94,7 @@ export default function HomePage() {
               marginBottom: "16px",
             }}
           >
-            कला · कौशल · आत्मनिर्भरता
+            कला · कौशल्य · आत्मनिर्भरता
           </div>
 
           <h1
